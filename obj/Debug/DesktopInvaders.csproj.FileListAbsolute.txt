@@ -1,0 +1,8 @@
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\bin\Debug\DesktopInvaders.exe.config
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\obj\Debug\DesktopInvaders.Form1.resources
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\obj\Debug\DesktopInvaders.Properties.Resources.resources
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\obj\Debug\DesktopInvaders.csproj.GenerateResource.Cache
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\bin\Debug\DesktopInvaders.exe
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\bin\Debug\DesktopInvaders.pdb
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\obj\Debug\DesktopInvaders.exe
+c:\users\b.wood\documents\visual studio 2013\Projects\DesktopInvaders\DesktopInvaders\obj\Debug\DesktopInvaders.pdb
